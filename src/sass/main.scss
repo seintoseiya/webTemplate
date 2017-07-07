@@ -1,0 +1,13 @@
+@import "components/_sanitize.scss";
+h1 {
+  color: red;
+  &:hover {
+    color: blue;
+  }
+}
+p{
+  font-size: 20px;
+}
+.test{
+  display: flex;
+}
